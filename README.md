@@ -1,5 +1,14 @@
 <h1 align="center">Hi there, I'm Zeyad (not Ziad) 👋</h1>
-<h3 align="center">Petroleum Engineering Student | Full Stack Developer | 🏆 NASA Space Apps Global Nominee</h3>
+
+<h3 align="center">
+  Petroleum Engineering Student | Full Stack Developer (4+ Years Exp)
+</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NASA_Space_Apps-Global_Nominee_2025-orange?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps Nominee" />
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/ZeyadMNagi">
@@ -8,9 +17,13 @@
 </p>
 
 <p align="center">
- <b>Logic > Aesthetics.</b> <br/>
- I'm an Engineering student in Egypt who builds systems that work, not just ones that look pretty.<br/> 
+ <b>"Building things that solve real problems, not tutorial apps."</b>
+</p>
+
+<p align="center">
  My work sits at the intersection of <b>Physics</b>, <b>Cybersecurity</b>, and <b>Web Architecture</b>.
+ <br/>
+ <i>Logic > Aesthetics.</i>
 </p>
 
 ---
@@ -33,11 +46,20 @@
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+## 🛠️ The Arsenal
 
-| **Backend & Logic** | **Frontend & UI** | **Tools & Environment** |
+| **Backend & Logic** | **Frontend & UI** | **Tools & Security** |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 🛡️ **Cybersecurity** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> <br/> <img src="https://img.shields.io/badge/Security-Kali_Linux-black?style=flat-square&logo=kalilinux&logoColor=white" /> |
+
+---
+
+## 🌱 What I'm Learning Now
+*Refining my skills to bridge the gap between engineering and tech.*
+
+- 🔐 **Cybersecurity:** Penetration Testing, Network Defense, and Vulnerability Assessment.
+- ⚛️ **Physics Simulation:** Connecting Vector Mechanics and Kinematics with Python.
+- 📈 **Advanced Math:** Calculus II (Integration & Limits) for engineering applications.
 
 ---
 
